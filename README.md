@@ -1,13 +1,8 @@
-# Hi there 👋
+# Today I Learned
 
-## 이런 환경에 익숙해요✍🏼
+## <<https://heoooo-o.tistory.com/>>
 
-## 언어
-
-<p>
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
-</p>
+## 혼자서 공부, 정리 하는 공간
 
 ## 📕 Latest Blog Posts
 
